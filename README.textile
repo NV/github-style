@@ -1,0 +1,7 @@
+h1. Github Gray Rabbit
+
+!/nv/github-style/raw/master/github-small.png!:/nv/github-style/raw/master/github.png
+
+!/nv/github-style/raw/master/github-grayrabbit-small.png!:/nv/github-style/raw/master/github-grayrabbit.png
+
+"github-grayrabbit.css":/nv/github-style/raw/master/github-grayrabbit.css is a stylesheet for Firefox "Stylish":https://addons.mozilla.org/en-US/firefox/addon/2108
