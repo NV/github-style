@@ -7,7 +7,7 @@ Description: http://github.com/nv/github-style/
              http://userstyles.org/styles/22105
 */
 
-@-moz-document domain("github.com") {
+@-moz-document url-prefix(http://github.com/) {
 
 body {
   background-color: #f6f6f6 !important;
