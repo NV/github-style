@@ -137,7 +137,7 @@ body {
   background: #f3f3f3; 
   font-size:100% !important;
 }
-#readme .wikistyle {
+#readme > div {
   width: 69em; 
   margin-left: auto !important; 
   margin-right: auto !important; 
