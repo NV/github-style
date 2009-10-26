@@ -2,4 +2,6 @@ h1. Github Gray Rabbit
 
 !/nv/github-style/raw/master/github-grayrabbit-small.png!:/nv/github-style/raw/master/github-grayrabbit.png
 
-"github-grayrabbit.css":/nv/github-style/raw/master/github-grayrabbit.css is a stylesheet for Firefox "Stylish":https://addons.mozilla.org/en-US/firefox/addon/2108. Now github repo page looks "like this":/nv/github-style/raw/master/github.png. With github-grayrabbit.css it will look "like this":/nv/github-style/raw/master/github-grayrabbit.png.
+"github-grayrabbit.css":/nv/github-style/raw/master/github-grayrabbit.css is a stylesheet for Firefox "Stylish":https://addons.mozilla.org/en-US/firefox/addon/2108. 
+
+Now github repo page looks "like this":/nv/github-style/raw/master/github.png. With github-grayrabbit.css it will look "like this":/nv/github-style/raw/master/github-grayrabbit.png.
